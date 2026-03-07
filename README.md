@@ -13,10 +13,10 @@
    ```bash
    pip install opencv-python numpy
    ```
-2. 將欲轉換的圖像放在同一目錄，並修改 `mean_picture_to_csv.py` 中的 `img_path`。
+2. 將欲轉換的圖像放在同一目錄，並修改 `map_picture_to_csv.py` 中的 `img_path`。
 3. 執行程式：
    ```bash
-   python mean_picture_to_csv.py
+   python map_picture_to_csv.py
    ```
 4. 生成的 `floor_plan_ascii.csv` 將會儲存在同一目錄。
 
